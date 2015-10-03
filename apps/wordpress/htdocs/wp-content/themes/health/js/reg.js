@@ -86,16 +86,3 @@ function call() {
 		
     }
 }
-
-// $(".create").addClass("loading");
-// setTimeout(function() {
-//   $(".create").addClass("hide-loading");
-//   // For failed icon just replace ".done" with ".failed"
-//   $(".done").addClass("finish");
-// }, 3000);
-// setTimeout(function() {
-//   $(".create").removeClass("loading");
-//   $(".create").removeClass("hide-loading");
-//   $(".done").removeClass("finish");
-//   $(".failed").removeClass("finish");
-// },4000);
