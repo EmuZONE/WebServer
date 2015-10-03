@@ -1,0 +1,21 @@
+To: user@example.com
+Subject: =?UTF-8?B?W01lZGljYWwgQ2FyZF0g0JLQsNGIINGB0LDQudGCINC+0LHQvdC+0LLQu9GR?=  =?UTF-8?B?0L0g0LTQviBXb3JkUHJlc3MgNC4zLjE=?=
+Date: Wed, 16 Sep 2015 08:29:06 +0000
+From: WordPress <wordpress@127.0.0.1>
+Message-ID: <28a3ee530f8fbef21e18e45cc18188e9@127.0.0.1>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.10 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Привет! Ваш сайт http://127.0.0.1/wordpress был автоматически обновлён до WordPress 4.3.1.
+
+Действий с вашей стороны не требуется. Подробности о версии 4.3.1 можно узнать на экране "О WordPress":
+http://127.0.0.1/wordpress/wp-admin/about.php
+
+Если вы столкнётесь с проблемами и вам понадобится поддержка, вам помогут волонтёры на форумах WordPress.org.
+https://ru.forums.wordpress.org/
+
+Команда WordPress
+
