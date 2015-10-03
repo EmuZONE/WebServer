@@ -73,8 +73,8 @@ function call() {
                       $(".done").removeClass("finish");
                       $(".failed").removeClass("finish");
                     },4000);
-    	            $('.results').html('Додано').fadeIn();					
-					setTimeout(clear, 1000);
+    	            // $('.results').html('Додано').fadeIn();
+                    // setTimeout(clear, 1000);
     	        } else {
     	            $('.results').html('Помилка').fadeIn();
     	        }                 
