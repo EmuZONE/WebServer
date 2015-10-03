@@ -668,3 +668,51 @@
 18:28:49  [main] 	Deinitializing Modules
 18:28:49  [main] 	Deinitializing Control Panel
 
+21:31:14  [main] 	Initializing Control Panel
+21:31:14  [main] 	Windows Version: Windows 8  64-bit
+21:31:14  [main] 	XAMPP Version: 5.6.12
+21:31:14  [main] 	Control Panel Version: 3.2.1  [ Compiled: May 7th 2013 ]
+21:31:14  [main] 	You are not running with administrator rights! This will work for
+21:31:14  [main] 	most application stuff but whenever you do something with services
+21:31:14  [main] 	there will be a security dialogue or things will break! So think 
+21:31:14  [main] 	about running this application with administrator rights!
+21:31:14  [main] 	XAMPP Installation Directory: "c:\users\dmitr\documents\github\xampp\"
+21:31:14  [main] 	Checking for prerequisites
+21:31:14  [main] 	All prerequisites found
+21:31:14  [main] 	Initializing Modules
+21:31:14  [Apache] 	XAMPP Apache Service is already running on port 80
+21:31:14  [Apache] 	XAMPP Apache Service is already running on port 443
+21:31:14  [mysql] 	XAMPP MySQL Service is already running on port 3306
+21:31:14  [main] 	Enabling autostart for module "Apache"
+21:31:14  [main] 	Enabling autostart for module "MySQL"
+21:31:14  [main] 	Starting Check-Timer
+21:31:14  [main] 	Control Panel Ready
+21:31:15  [Apache] 	Autostart aborted: Apache is already running
+21:31:15  [mysql] 	Autostart aborted: MySQL is already running
+21:31:46  [main] 	Deinitializing Modules
+21:31:46  [main] 	Deinitializing Control Panel
+
+21:41:05  [main] 	Initializing Control Panel
+21:41:05  [main] 	Windows Version: Windows 8  64-bit
+21:41:05  [main] 	XAMPP Version: 5.6.12
+21:41:05  [main] 	Control Panel Version: 3.2.1  [ Compiled: May 7th 2013 ]
+21:41:05  [main] 	You are not running with administrator rights! This will work for
+21:41:05  [main] 	most application stuff but whenever you do something with services
+21:41:05  [main] 	there will be a security dialogue or things will break! So think 
+21:41:05  [main] 	about running this application with administrator rights!
+21:41:05  [main] 	XAMPP Installation Directory: "c:\users\dmitr\documents\github\xampp\"
+21:41:05  [main] 	Checking for prerequisites
+21:41:06  [main] 	All prerequisites found
+21:41:06  [main] 	Initializing Modules
+21:41:06  [Apache] 	XAMPP Apache Service is already running on port 80
+21:41:06  [Apache] 	XAMPP Apache Service is already running on port 443
+21:41:06  [mysql] 	XAMPP MySQL Service is already running on port 3306
+21:41:06  [main] 	Enabling autostart for module "Apache"
+21:41:06  [main] 	Enabling autostart for module "MySQL"
+21:41:06  [main] 	Starting Check-Timer
+21:41:06  [main] 	Control Panel Ready
+21:41:06  [Apache] 	Autostart aborted: Apache is already running
+21:41:06  [mysql] 	Autostart aborted: MySQL is already running
+21:46:41  [main] 	Deinitializing Modules
+21:46:41  [main] 	Deinitializing Control Panel
+
